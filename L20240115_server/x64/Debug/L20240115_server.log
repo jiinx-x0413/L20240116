@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Work\L20240115_server\main.cpp(110,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  L20240115_server.vcxproj -> C:\Work\L20240115_server\x64\Debug\L20240115_server.exe
